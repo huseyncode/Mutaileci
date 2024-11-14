@@ -1,0 +1,222 @@
+{
+    "audience_questions": [
+        {
+            "question": "Albert Eynşteynin nisbilik nəzəriyyəsi üzərində işləyərkən dediyi məşhur ifadə nə idi?",
+            "answer": "Hər şey nisbidir."
+        },
+        {
+            "question": "Hansı ölkə qədim dövrlərdə gladiator döyüşləri ilə məşhur idi?",
+            "answer": "Roma İmperiyası."
+        },
+        {
+            "question": "Caz musiqisinin vətəni hesab edilən şəhər hansı ölkədə yerləşir?",
+            "answer": "ABŞ (New Orleans)."
+        },
+        {
+            "question": "1869-cu ildə kanal açılması ilə əlaqədar olaraq Avropanı Asiyaya birləşdirən məşhur kanal hansıdır?",
+            "answer": "Süveyş kanalı."
+        },
+        {
+            "question": "İnsan bədənində ən böyük orqan nədir?",
+            "answer": "Dəri."
+        },
+        {
+            "question": "Müasir dövrdə ən çox istifadə edilən proqramlaşdırma dili hansıdır?",
+            "answer": "Python."
+        },
+        {
+            "question": "Hansı çay dünyada ən uzun çay hesab olunur?",
+            "answer": "Nil çayı."
+        },
+        {
+            "question": "Dünyanın ən böyük okeanı hansıdır?",
+            "answer": "Sakit okean."
+        },
+        {
+            "question": "Şərqi Asiyada yerləşən və yüksək texnologiyalı avtomobillər istehsal edən ölkə hansıdır?",
+            "answer": "Yaponiya."
+        },
+        {
+            "question": "Qədim Misirin əsas simvolu olan böyük heykəllər hansı adla tanınır?",
+            "answer": "Piramidalar."
+        },
+        {
+            "question": "Hansı ixtiraçı elektrik ampulünü kəşf etmişdir?",
+            "answer": "Tomas Edison."
+        },
+        {
+            "question": "Alçaq naviqasiya peyklərinin ən böyük istifadəçisi olan texnologiya hansıdır?",
+            "answer": "GPS."
+        },
+        {
+            "question": "Kompüterin yaddaş tutumunu ölçmək üçün əsas vahid nədir?",
+            "answer": "Bayt."
+        },
+        {
+            "question": "Dünyanın ən böyük səhrası hansı səhradır?",
+            "answer": "Səhrayi-Kəbir (Sahara)."
+        },
+        {
+            "question": "Müasir futbolun yaranma yeri hesab edilən ölkə hansıdır?",
+            "answer": "İngiltərə."
+        }
+    ],
+    "rounds": {
+        "round_1": [
+            {
+                "question": "Hansı planet günəş sistemində yer kürəsinə ən yaxın məsafədə yerləşir?",
+                "options": [
+                    "Venera",
+                    "Mars",
+                    "Merkuri",
+                    "Yupiter"
+                ],
+                "answer": "Merkuri"
+            },
+            {
+                "question": "1966-cı ildə 'Air Jordan' və 'His Airness' ləqəblərini əldə edən basketbolçu kimdir?",
+                "options": [
+                    "Kərim Əbdül Cabbar",
+                    "LeBron Ceyms",
+                    "Maykl Cordan",
+                    "Kobi Brayant"
+                ],
+                "answer": "Maykl Cordan"
+            },
+            {
+                "question": "Azərbaycan Respublikasının ilk prezidenti kim olub?",
+                "options": [
+                    "Heydər Əliyev",
+                    "Ayaz Mütəllibov",
+                    "Əbülfəz Elçibəy",
+                    "İlham Əliyev"
+                ],
+                "answer": "Ayaz Mütəllibov"
+            },
+            {
+                "question": "Nəsimi festivalı hansı şəhərdə qeyd edilir?",
+                "options": [
+                    "Bakı",
+                    "Şəki",
+                    "Gəncə",
+                    "Lənkəran"
+                ],
+                "answer": "Bakı"
+            },
+            {
+                "question": "Hansı dəniz dünyanın ən böyük duzlu gölüdür?",
+                "options": [
+                    "Xəzər",
+                    "Ölü Dəniz",
+                    "Qara Dəniz",
+                    "Qırmızı Dəniz"
+                ],
+                "answer": "Xəzər"
+            }
+        ],
+        "round_2": [
+            {
+                "question": "Hansı şəhər 'Küləkli Şəhər' olaraq tanınır?",
+                "options": [
+                    "Los Anceles",
+                    "San Fransisko",
+                    "Şikaqo",
+                    "New York"
+                ],
+                "answer": "Şikaqo"
+            },
+            {
+                "question": "Hansı yazıçı 'Narnıyanın Xronikaları' əsərlərini yazıb?",
+                "options": [
+                    "C.S. Luis",
+                    "J.K. Roulinq",
+                    "Tolkin",
+                    "Ernest Heminquey"
+                ],
+                "answer": "C.S. Luis"
+            },
+            {
+                "question": "Həm radio, həm də telefon ixtira edən italyan kimdir?",
+                "options": [
+                    "Gilyermo Markoni",
+                    "Aleksandr Qrem Bell",
+                    "Nikolas Tesla",
+                    "Tomas Edison"
+                ],
+                "answer": "Gilyermo Markoni"
+            },
+            {
+                "question": "Hansı Azərbaycan şəhəri qədim Şirvanşahlar dövlətinin mərkəzi olub?",
+                "options": [
+                    "Bakı",
+                    "Qəbələ",
+                    "Şamaxı",
+                    "Şəki"
+                ],
+                "answer": "Şamaxı"
+            },
+            {
+                "question": "İlk Nobel Sülh mükafatı alan qadın kimdir?",
+                "options": [
+                    "Marqaret Teta",
+                    "Mariya Sklodovska-Küri",
+                    "Bertha von Suttner",
+                    "Anna Pavlova"
+                ],
+                "answer": "Bertha von Suttner"
+            }
+        ],
+        "round_3": [
+            {
+                "question": "Hansı fiziklərin adı 'Bose-Einstein' kondensat nəzəriyyəsi ilə bağlıdır?",
+                "options": [
+                    "Albert Eynşteyn, Satyendra Nath Bose",
+                    "Nikola Tesla, Thomas Edison",
+                    "Newton, Faraday",
+                    "Galileo, Hawking"
+                ],
+                "answer": "Albert Eynşteyn, Satyendra Nath Bose"
+            },
+            {
+                "question": "Hansı romanda Qoyunların ağlından danışılır?",
+                "options": [
+                    "Heyvanıstan",
+                    "Fahrenheit 451",
+                    "Möminlər kəndi",
+                    "Atalar və oğullar"
+                ],
+                "answer": "Heyvanıstan"
+            },
+            {
+                "question": "Şarlot Brontenin yazdığı məşhur roman nədir?",
+                "options": [
+                    "Ceyn Eyr",
+                    "Anna Karenina",
+                    "Suç və Cəza",
+                    "Qürur və Qərəz"
+                ],
+                "answer": "Ceyn Eyr"
+            },
+            {
+                "question": "Həyatda ölüm mələyinin görünüşünü detallı təsvir edən roman hansıdır?",
+                "options": [
+                    "İlyas Əfəndiyev",
+                    "Dünya və Təbiət",
+                    "Yolçunun Adi Səyahəti",
+                    "Knyaz"
+                ],
+                "answer": "Yolçunun Adi Səyahəti"
+            },
+            {
+                "question": "Quruluş nöqtəsi ilə bağlı yazılmış ilk rəsmi esse hansı fiziklərə aiddir?",
+                "options": [
+                    "Werner Heisenberg, Niels Bohr",
+                    "Enşteyn, Mileva Maric",
+                    "Tesla, Edison",
+                    "Hubble, Lemaître"
+                ],
+                "answer": "Werner Heisenberg, Niels Bohr"
+            }
+        ]
+    }
+}

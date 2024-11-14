@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/grid.css">
+    <link rel="stylesheet" href="./assets/fonts/font.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Montserrat:wght@400;600&family=Roboto:wght@400;700&family=Nunito+Sans:wght@400;700&family=Bebas+Neue&display=swap"
+        rel="stylesheet">
+    <title>Mütailəçi</title>
+</head>
+
+<body>
+    <header class="header">
+        <div class="img-wrapper">
+            <img src="./assets/img/Parlaq_Logo.svg" alt="">
+        </div>
+        <div class="img-wrapper">
+            <img src="./assets/img/H$_Logo.png" alt="">
+        </div>
+        <div class="img-wrapper">
+            <img src="./assets/img/Mutaileci_Logo.png" alt="" class="mutaileci">
+        </div>
+        <div class="img-wrapper">
+            <img src="./assets/img/Book_Logo.png" alt="">
+        </div>
+        <div class="img-wrapper">
+            <img src="./assets/img/Qanun_Logo.png" alt="">
+        </div>
+    </header>
+    <main>
+        <div class="row">
+            <div class="col-3 jokerr">
+                <div class="joker">
+                    <button class="btn">50/50</button>
+                    <button class="btn">Pass</button>
+                    <button class="btn"><i class="fa-solid fa-shield"></i>1</button>
+                </div>
+            </div>
+            <div class="col-3 info-wrapper">
+                <div class="player-info">
+                    <h3 id="playerName"></h3>
+                    <h3 id="roundInfo"></h3>
+                </div>
+
+
+            </div>
+            <div class="col-6 timer">
+                <span id="timerDisplay">02:00</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="quiz-container col-12">
+                <div class="question">
+                    <h1></h1>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-6">
+                    <div class="answer">
+                        <button class="btn"></button>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="answer">
+                        <button class="btn"></button>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6">
+                    <div class="answer">
+                        <button class="btn"></button>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="answer">
+                        <button class="btn"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="next-question">Next Question</button>
+    </main>
+    <script src="./assets/js/main.js"></script>
+</body>
+
+</html>
